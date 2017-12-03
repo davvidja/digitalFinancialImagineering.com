@@ -22,6 +22,13 @@ Por lo tanto la red es responsable de:
 
 
 ## Gestión de las transacciones
+Una trasnsacción es la transferencia de una cantidad de monedas digitales entre un pagador y un pagado.
+
+Existen varias fases en la gestión de la transacción:
+* La creación de la transferencia.
+* El procesado de la transacción para ser incluida en un bloque
+* La aceptación de este bloque por parte de la red y por ende la confirmación definitiva de la trasacción
+
 
 
 

@@ -1,4 +1,4 @@
-#Introducción a Bitcoin
+# Introducción a Bitcoin
 
 Como ingeniero especializado en tecnologías digitales, y mi gran interés por el mundo financiero, hace tiempo ha llamado mi atención una tecnología que desde hace años está creciendo a un ritmo vertiginoso y que poco a poco está traspasando el sector para la que inicialmente fue ideada, para entrar poco a poco en otros nichos.
 

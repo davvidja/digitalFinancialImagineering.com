@@ -18,7 +18,7 @@ Bitcoin es una tecnología de red peer-to-peer de moneda electrónica para opera
 
 Por lo tanto la red es responsable de:
 * la gestión de las transacciones
-* la emisión de bitcoins
+* la emisión de nuevos bitcoins
 
 
 ## Gestión de las transacciones
@@ -29,12 +29,30 @@ Existen varias fases en la gestión de la transacción:
 * El procesado de la transacción para ser incluida en un bloque
 * La aceptación de este bloque por parte de la red y por ende la confirmación definitiva de la trasacción
 
+## Emisión de nuevos bitcoins
+
+_Miners_ reciben incentivos por su trabajo a través de dos vías:
+* Comisiones por gestión de transacciones: fee = TXinput - TXoutput
+* Nuevos Bitcoins que son transferidos al _Miner_
+
+Centrémonos en este segundo mecanismo de recompensa que viene a ser una de las bases del sistema.
+
+Esta se produce cuando se crea un nuevo bloque, siendo la primera transacción de un tipo especial que corresponde con la emisión de nuevos bitcoins destinados al creador del bloque.
+
+Al no haber un organismo central que emita moneda, este es el mecanismo diseñado en la red para poner en circulación Bitcoins. Sin embargo, una vez que un predeterminado número de monedas han entrado en circulación, el incentivo transicionará únicamente a comisiones por transacción.
+
+¿Cómo se controla el número de monedas que pueden entrar en circulación? Para ello hay un progrma de recompensa en función del nivel de nodos alcanzado en la red modelado para replicar la tasa de extracción de productos básicos como el oro.
+
+
+
 
 
 
 
 
 ## Referencias
-https://bitcoin.org/en/
+[Bitcoin.org](https://bitcoin.org/en/)
 
-Satoshi white paper [https://bitcoin.org/bitcoin.pdf]
+[Satoshi white paper](https://bitcoin.org/bitcoin.pdf)
+
+[Controlled supply](https://en.bitcoin.it/wiki/Controlled_supply)

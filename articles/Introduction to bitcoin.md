@@ -41,10 +41,17 @@ Esta se produce cuando se crea un nuevo bloque, siendo la primera transacción d
 
 Al no haber un organismo central que emita moneda, este es el mecanismo diseñado en la red para poner en circulación Bitcoins. Sin embargo, una vez que un predeterminado número de monedas han entrado en circulación, el incentivo transicionará únicamente a comisiones por transacción.
 
-¿Cómo se controla el número de monedas que pueden entrar en circulación? Para ello hay un progrma de recompensa en función del nivel de nodos alcanzado en la red modelado para replicar la tasa de extracción de productos básicos como el oro.
+¿Cómo se controla el número de monedas que pueden entrar en circulación? Para ello hay un programa de recompensa en función del nivel de nodos alcanzado en la red modelado para replicar la tasa de extracción de productos básicos como el oro.
+
+![Gráfico](/assets/Bitcoin.Controlled supply.graph.png)
+
+![pop](https://github.com/facebook/pop/blob/master/Images/pop.gif?raw=true)
 
 
-
+A Diciembre de 2017 nos encontramos en la siguiente situación del modelo de puesta en circulación de bitcoins:
+* Blockchain height: aproximadamente la cadena de bitcoins ha sobrepasado los 500.000 bloques.
+* Implica que la recompensa en forma de nuevos bitcoins emitidos es de 12.5 BTC/bloque
+* El número de BTC puestos en circulación es de aprox. 16.000.000 de un total de 21.000.000, lo que significa que se han puesto en total en circulación el 76%.
 
 
 
